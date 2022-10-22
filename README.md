@@ -1,4 +1,4 @@
-<img align="left" img src="https://user-images.githubusercontent.com/32157169/197328189-c4e82b77-7d6e-429b-a122-bf3ff046d1b6.png">
+<img align="right" img src="https://user-images.githubusercontent.com/32157169/197328189-c4e82b77-7d6e-429b-a122-bf3ff046d1b6.png">
 
 # Hai, I'm Eboni :wave:
 

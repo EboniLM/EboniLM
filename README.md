@@ -7,7 +7,7 @@
 
 ## I'm also a...
 :metal: Houstonian / Texan :cowboy_hat_face: <br>
-:crab: crustacean connoisseur :shrimp: :lobster: <br>
+:crab: Most Wanted by the crustacean community :shrimp: :lobster: <br>
 :nerd_face: history nerd <br>
 :books: professional rabbit-hole diver <br>
 :video_game:	gamer (RPGs and immersive sims = :heartpulse:) <br>

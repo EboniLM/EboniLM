@@ -1,6 +1,6 @@
 # Hai, I'm Eboni :wave:
 
-:desktop_computer: **Support @ GitHub** :computer: <br>
+:desktop_computer: **Supportocat** :computer: <br>
 :scroll: **Local history blogger** :books:
 
 <a target="_blank" href="https://www.linkedin.com/in/ebonilm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 

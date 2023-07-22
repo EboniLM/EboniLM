@@ -1,4 +1,4 @@
-# Hai, I'm Eboni :wave:
+# Hai:wave:
 
 :desktop_computer: **Supportocat** :computer: <br>
 :scroll: **Local history blogger** :books:

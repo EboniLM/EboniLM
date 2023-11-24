@@ -8,7 +8,7 @@
 
 <h4 align="center">
   
-👩‍💻 Advocate for GitHub developers <br>
+👩‍💻 GitHub Support <br>
 📜 Amateur historian <br>
 📚 Hoarder of books <br>
 📷 Terrible photographer <br>

@@ -8,8 +8,8 @@
 
 <h4 align="center">
   
-👩‍💻 Support Engineer <br>
-📜 Local history blogger <br>
+👩‍💻 Advocate for GitHub developers <br>
+📜 Amateur historian <br>
 📚 Hoarder of books <br>
 📷 Terrible photographer <br>
 

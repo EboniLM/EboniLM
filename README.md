@@ -6,11 +6,11 @@
 <a target="_blank" href="https://mas.to/@etebur"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/>
 </p>
 
-<h4 align="center">
-  
-👩‍💻 GitHub Support <br>
-📜 Amateur historian <br>
-📚 Hoarder of books <br>
-📷 Terrible photographer <br>
 
-</h4>
+  
+- 👩‍💻 GitHub Support <br>
+- 📜 I enjoy tumbling down a history or genealogy rabbithole <br>
+- 📖 I'm always reading a book (Ask me what I'm currently reading!) <br>
+- 🐍 I like to automate stupid things with Python <br>
+- 🎮 Books, videogames, and shellfish are some of my favorite things 🦀 <br>
+
